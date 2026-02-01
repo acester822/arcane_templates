@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "name": "Portainer Templates",
   "templates": [
     {
       "id": "registry",
